@@ -151,7 +151,7 @@ namespace _07_Foreach
             }
 
 
-
+            // Gelecek ders içerikleri
 
             //101 temel syntax
             //201 hackerrank
