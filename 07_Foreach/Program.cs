@@ -150,6 +150,9 @@ namespace _07_Foreach
 
             }
 
+
+
+
             //101 temel syntax
             //201 hackerrank
             //301 sql 
@@ -158,6 +161,8 @@ namespace _07_Foreach
             //601 tasarım deseni
             //701 api
             //
+
+
             //
             //
 
