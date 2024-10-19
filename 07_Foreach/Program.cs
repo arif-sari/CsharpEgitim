@@ -167,6 +167,60 @@ namespace _07_Foreach
             //
 
 
+            // Gelecek ders içerikleri
+
+            //101 temel syntax
+            //201 hackerrank
+            //301 sql 
+            //401 c# + sql
+            //501  farklı bir veri tabanı 
+            //601 tasarım deseni
+            //701 api
+            //
+            // Gelecek ders içerikleri
+
+            //101 temel syntax
+            //201 hackerrank
+            //301 sql 
+            //401 c# + sql
+            //501  farklı bir veri tabanı 
+            //601 tasarım deseni
+            //701 api
+            //
+
+
+            //
+            //// Gelecek ders içerikleri
+
+            //101 temel syntax
+            //201 hackerrank
+            //301 sql 
+            //401 c# + sql
+            //501  farklı bir veri tabanı 
+            //601 tasarım deseni
+            //701 api
+            //
+
+
+            //
+            //// Gelecek ders içerikleri
+
+            //101 temel syntax
+            //201 hackerrank
+            //301 sql 
+            //401 c# + sql
+            //501  farklı bir veri tabanı 
+            //601 tasarım deseni
+            //701 api
+            //
+
+
+            //
+            //
+
+            //
+            //
+
 
             #endregion
             Console.Read();
