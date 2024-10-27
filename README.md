@@ -37,5 +37,7 @@ Eğitimde öğrendiğimiz bilgilerin detayını aşağıda bulabilirsiniz
  - Methodların tanımı, kullanımı, gerçek hayat projelerindeki kullanıldığı alanlara benzer örnekler yapıldı  
  
  
- ✅9. Proje : 
+ ✅9. Proje : DatabaseProject
+
+ -C# ve SQL bağlantılarının yapılması ve SQL den veri çekmek ve işlemek için kullanımlarını öğrendim.
         
