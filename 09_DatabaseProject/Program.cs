@@ -20,7 +20,7 @@ namespace _09_DatabaseProject
 
             string tableNumber;
             Console.WriteLine("----------------------------------------------------------------");
-            Console.WriteLine( "1-Kategoriler");
+            Console.WriteLine("1-Kategoriler");
             Console.WriteLine("2-Ürünler");
             Console.WriteLine("3-Siparişler");
             Console.WriteLine("4-Çıkış yap");
@@ -30,31 +30,39 @@ namespace _09_DatabaseProject
 
             Console.WriteLine("----------------------------------------------------------------");
 
-            SqlConnection connnection= new SqlConnection("Data Source=MONSTER\\TEW_SQLEXPRESS;initial Catalog=EgitimKampiDb; integrated security=true ");
-            connnection.Open();
+            SqlConnection connection = new SqlConnection("Data Source= MONSTER\\TEW_SQLEXPRESS;" +
+                " initial Catalog = EgitimKampiDb; integrated security=true ");
+            connection.Open();
+            SqlCommand command = new SqlCommand("Select * From TblCategory", connection);
+            SqlDataAdapter adapter = new SqlDataAdapter(command); // SqlDataAdapter c# ile sql arasında köprü görevi görüyor
+            DataTable dataTable = new DataTable(); //yeni nesne örneği oluşturuldu verileri geçici belleğe almamızı saglayacak
 
-            SqlCommand command = new SqlCommand(" Select*From TblCategory",connnection);
-            SqlDataAdapter adapter = new SqlDataAdapter(command);
-
-            DataTable datatable = new DataTable(); //data table verileri geçici belleğe almamıza yarıyor
-            adapter.Fill(datatable);
+            //Data table girilecek alanı tanımlıyor 
+            // adapter ile doldurduk
+            //adapter içinde command var
+            //command içinde sorgumuz var 
+            //amacımz bu sorguyu ram bellek içinden kullanıcıya göstermek
             
-            connnection.Close();
+            adapter.Fill(dataTable);
+            connection.Close(); //bağlantıyı kapattık
 
-            foreach (DataRow row in datatable.Rows)
+            //verileri döngü üzerinde göstermemiz lazım
+
+            foreach (DataRow row in dataTable.Rows) 
+           
             {
-               foreach(var item in row.ItemArray)
+                foreach (var item in row.ItemArray)
                 {
-                    Console.Write (item.ToString());
+                    Console.WriteLine(item.ToString());
                 }
-               Console.WriteLine();
-
+                Console.WriteLine() ;
             }
-          
-
-
 
             Console.Read();
         }
+        
     }
+
 }
+
+
