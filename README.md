@@ -5,13 +5,19 @@ Eğitimde öğrendiğimiz bilgilerin detayını aşağıda bulabilirsiniz
 
  ✅1. Proje : Main Subjects
 
- -Temel yazdırma komutları ve ekran yazdırma komutları öğrenildi 
+ -Temel yazdırma komutları ve ekran yazdırma komutları öğrenildi.
 
- ✅2. Proje : 
+ ✅2. Proje : Variables
+
+ -Değişken türleri nedir ve klavye ile  kullanıcıdan veri alınıp ekrana yazılması örnekleri tamamlandı.
  
- ✅3. Proje : 
+ ✅3. Proje : MakingDecision
+
+ -If / Else / Switch komutları öğrenildi kullanıcıdan veri alınarak ekranda beklenilen sonuçların gelmesi sağlandı
   
- ✅4. Proje : 
+ ✅4. Proje :
+
+ - For / While döngüsü öğrenildi gerçek örnekler ile denemeler yapıldı ve bir adet örnek sınav sorusu kodu yazıldı.
   
  ✅5. Proje : 
  
