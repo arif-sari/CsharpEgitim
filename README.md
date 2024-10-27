@@ -38,4 +38,10 @@ Eğitimde öğrendiğimiz bilgilerin detayını aşağıda bulabilirsiniz
  ✅9. Proje : DatabaseProject
 
  -C# ve SQL bağlantılarının yapılması ve SQL den veri çekmek ve işlemek için kullanımlarını öğrendim.
+
+ ✅10. Proje : DatabaseProject
+ 
+  - Database Kategori ekleme, ürün ekleme, ürün listeleme işlemleri öğrenildi uygulama yapıldı
+    // Ürün silme işleminde kalındı
+
         
