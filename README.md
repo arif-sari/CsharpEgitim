@@ -13,19 +13,29 @@ Eğitimde öğrendiğimiz bilgilerin detayını aşağıda bulabilirsiniz
  
  ✅3. Proje : MakingDecision
 
- -If / Else / Switch komutları öğrenildi kullanıcıdan veri alınarak ekranda beklenilen sonuçların gelmesi sağlandı
+ -Karar yapıları olan If / Else / Switch komutları öğrenildi kullanıcıdan veri alınarak ekranda beklenilen sonuçların gelmesi sağlandı
   
- ✅4. Proje :
+ ✅4. Proje : Loops
 
- - For / While döngüsü öğrenildi gerçek örnekler ile denemeler yapıldı ve bir adet örnek sınav sorusu kodu yazıldı.
+ - Döngülerden For / While döngüsü öğrenildi gerçek örnekler ile denemeler yapıldı ve bir adet örnek sınav sorusu kodu yazıldı.
   
  ✅5. Proje : 
  
- ✅6. Proje : 
+  - Karar yapıları ve döngülerin birlikte kullanıldığı örnekler gösterildi
+
+ ✅6. Proje :Arrays
+  
+  - Dizilerin tanımı, kullanım, dizi metotları, kullanım alanları ve ilgili örnekleri içermektedir
+
+  ✅7. Proje : Foreach
+  
+  -Foreach döngüsü kullanarak bir sınıftaki sınav not ortalaması örnek projesi gerçekleştirildi
+  
  
- ✅7. Proje : 
+ ✅8. Proje : Metodlar
+
+ - Methodların tanımı, kullanımı, gerçek hayat projelerindeki kullanıldığı alanlara benzer örnekler yapıldı  
  
- ✅8. Proje : 
  
  ✅9. Proje : 
         
