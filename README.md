@@ -1,5 +1,6 @@
 C# Eğitim kampı örnek projeler 
-#c Sharp 101/201
+
+C# 101/201
 
 Bu repo Murat Yücedağ hocamızın eğitiminde bizlere anlatmış olduğu örnek denemeleri içermektedir, konu anlatımı örnekler ve denemeler sonucunda çalışan kodları içermektedir.
 Eğitimde öğrendiğimiz bilgilerin detayını aşağıda bulabilirsiniz
